@@ -24,7 +24,7 @@ namespace TutorialJWT.Controllers
         }
 
 
-        // GET: api/<DataController>
+        // GET: api/<DataController> --tamabahn
         [HttpGet]
         public IEnumerable<string> Get()
         {
